@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ART Calculator</string>
+    <string name="app_menu_label">ART APP</string>
+    <string name="calculate_drug_regimen_label">Calculate Drugs</string>
+    <string name="weight_hint">Weight in Kg</string>
+    <string name="calculate_btn_label">Calculate</string>
+    <string name="start_date_label">Start Date</string>
+    <string name="regimen_type">Regimen Type</string>
+    <string name="drug">Drug</string>
+    <string name="calculation_result_label">Calculation Result</string>
+    <string name="weight_label">Weight :</string>
+    <string name="weight_value">0</string>
+    <string name="regime_label">Regimen :</string>
+    <string name="drug_type">Drug Type :</string>
+    <string name="number_of_drugs_label">Number of Drugs:</string>
+    <string name="morning_dosage_label">Morning Dosage:</string>
+    <string name="evening_dosage_label">Evening Dosage</string>
+    <string name="end_date_label">End Date (Appointment Date) :</string>
+    <string name="number_of_weeks">Number of Weeks</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
